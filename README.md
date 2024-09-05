@@ -1,3 +1,5 @@
+##Stock Price Prediction and Analysis Tool
+
 This project is a C# application designed to predict stock prices and analyze market trends using machine learning and statistical methods. It leverages ML.NET for implementing Ridge Regression models, enabling accurate predictions of future stock prices. The application also incorporates Simple Moving Average (SMA) and Exponential Moving Average (EMA) calculations to provide a comprehensive analysis of historical stock data trends.
 
 Key features:
